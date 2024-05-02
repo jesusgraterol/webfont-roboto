@@ -1,0 +1,35 @@
+{
+  "name": "webfont-roboto",
+  "version": "1.0.0",
+  "description": "The webfont-roboto package simplifies self-hosting the Roboto Font for your web applications. This means you can use the font without relying on external services. It works with both vanilla CSS and popular frameworks like Tailwind.",
+  "main": "dist/index.css",
+  "style": "dist/index.css",
+  "scripts": {
+    "start": "webfont-builder",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusgraterol/webfont-roboto.git"
+  },
+  "keywords": [
+    "Font",
+    "Google",
+    "Fonts",
+    "Roboto",
+    "Web",
+    "Sans",
+    "Sans",
+    "Serif",
+    "sans-serif"
+  ],
+  "author": "Jesus Graterol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesusgraterol/webfont-roboto/issues"
+  },
+  "homepage": "https://github.com/jesusgraterol/webfont-roboto#readme",
+  "devDependencies": {
+    "webfont-builder": "^1.0.3"
+  }
+}
