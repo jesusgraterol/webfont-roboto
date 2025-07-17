@@ -1,6 +1,6 @@
 {
   "name": "webfont-roboto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The webfont-roboto package simplifies self-hosting the Roboto Font for your web applications. This means you can use the font without relying on external services. It works with both vanilla CSS and popular frameworks like Tailwind.",
   "main": "dist/index.css",
   "style": "dist/index.css",
